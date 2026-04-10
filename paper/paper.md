@@ -1,6 +1,6 @@
 ---
 title: 'BioHackEU25 report: Minimal information standardization of phenomic experimental data in animals'
-title_short: 'BioHackEU25 #17: Minimal information standardisation'
+title_short: 'BioHackEU25 Project 17: Minimal information standardisation'
 tags:
   - domestic animal
   - phenotyping
@@ -10,26 +10,26 @@ authors:
   - name: Sarah Oranna Fischer
     orcid: 0000-0002-6218-7275
     affiliation: 1
-    role:
+    role: Investigation, Conceptualization, Writing – original draft, Writing – review & editing
   - name: Rica Johanna Rehfeld
     orcid: 0009-0007-3289-5872
     affiliation: 2
-    role:
+    role: Investigation, Conceptualization, Writing – original draft, Writing – review & editing
   - name: McKinley Santiago
-    orcid: 
+    orcid: 0009-0009-1160-5041
     affiliation: 3
-    role:
+    role: Investigation
   - name: Emily Clark
     orcid: 0000-0002-9550-7407
     affiliation: 4
-    role: 
+    role: Conceptualization
   - name: Daniel Arend
     affiliation: 5
-    role: 
+    role: Writing – review & editing
   - name: Manuel Feser
     orcid: 0000-0001-6546-1818
     affiliation: 5
-    role: 
+    role: Investigation, Conceptualization, Writing – review & editing
 affiliations:
   - name: FBN Dummerstorf
     ror: https://ror.org/02n5r1g44
@@ -38,10 +38,10 @@ affiliations:
     ror: https://ror.org/04dm1cm79 
     index: 2
   - name: Atrium Health Wake Forest Baptist
-    ror: 
+    ror: https://ror.org/0207ad724
     index: 3
   - name: EMBL EBI
-    ror: 
+    ror: https://ror.org/02catss52
     index: 4
   - name: IPK Gatersleben
     ror: https://ror.org/02skbsp27
