@@ -34,7 +34,7 @@ affiliations:
   - name: Research Institute for Farm Animal Biology (FBN), FBN Dummerstorf
     ror: 02n5r1g44
     index: 1
-  - name: Rudolf-Zenker-Institut für Experimentelle Chirurgie (IEC), University Medical Centre Rostock
+  - name: Rudolf-Zenker-Institute for Experimental Surgery, Rostock University Medical Centre
     ror: 04dm1cm79 
     index: 2
   - name: Department of Pathology, Wake Forest University of Medicine
