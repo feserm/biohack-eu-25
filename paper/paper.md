@@ -7,7 +7,7 @@ tags:
   - standardization
   - ISA
 authors:
-  - name: Sarah Oranna Fischer
+  - name: Sarah Oranna Fischer-Zielke
     orcid: 0000-0002-6218-7275
     affiliation: 1
     role: Investigation, Conceptualization, Writing – original draft, Writing – review & editing
@@ -57,70 +57,8 @@ group: Project 17
 git_url: https://github.com/feserm/biohack-eu-25
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: First Author \emph{et al.}
+authors_short: Fischer-Zielke and Rehfeld \emph{et al.}
 ---
-
-<!-- ---
-title: 'BioHackEU25 report: Minimal information standardization of phenomic experimental data in animals'
-title_short: 'BioHackEU25 #17: Minimal information standardisation'
-tags:
-  - domestic animal
-  - phenotyping
-  - standardization
-  - ISA
-authors:
-  - name: Sarah Oranna Fischer
-    orcid: 0000-0002-6218-7275
-    affiliation: 1
-    role: Investigation, Conceptualization, Writing – original draft, Writing – review & editing
-  - name: Rica Johanna Rehfeld
-    orcid: 0009-0007-3289-5872
-    affiliation: 2
-    role: Investigation, Conceptualization, Writing – original draft, Writing – review & editing
-  - name: McKinley Santiago
-    orcid: 0009-0009-1160-5041
-    affiliation: 3
-    role: Investigation
-  - name: Emily Clark
-    orcid: 0000-0002-9550-7407
-    affiliation: 4
-    role: Conceptualization
-  - name: Daniel Arend
-    affiliation: 5
-    role: Writing – review & editing
-  - name: Manuel Feser
-    orcid: 0000-0001-6546-1818
-    affiliation: 5
-    role: Investigation, Conceptualization, Writing – review & editing
-affiliations:
-  - name: FBN Dummerstorf
-    ror: https://ror.org/02n5r1g44
-    index: 1
-  - name: IEC, University Medical Centre Rostock
-    ror: https://ror.org/04dm1cm79 
-    index: 2
-  - name: Atrium Health Wake Forest Baptist
-    ror: https://ror.org/0207ad724
-    index: 3
-  - name: EMBL EBI
-    ror: https://ror.org/02catss52
-    index: 4
-  - name: IPK Gatersleben
-    ror: https://ror.org/02skbsp27
-    index: 5
-date: 7 November 2025
-cito-bibliography: paper.bib
-event: BH25EU
-biohackathon_name: "BioHackathon Europe 2025"
-biohackathon_url:   "https://biohackathon-europe.org/"
-biohackathon_location: "Bad Saarow, Germany, 2025"
-group: Project 17
-# URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/feserm/biohack-eu-25
-# This is the short authors description that is used at the
-# bottom of the generated paper (typically the first two authors):
-authors_short: Fischer and Rehfeld \emph{et al.}
---- -->
 
 
 # Introduction
@@ -172,3 +110,5 @@ Looking ahead, the transformation of the Domestic Animals Genome and Phenome Foc
 
 We would like to thank the ELIXIR community and the organizers of BioHackathon Europe for the opportunity to conduct this work as part of BioHackathon Europe 2025.
 This work was funded by ELIXIR, the research infrastructure for life-science data; by the Federal Government of Germany and the county of North Rhine-Westphalia (de.NBI - the GermanNetwork for Bioinformatics Infrastructure); the DFG in frame of the FAIRagro (www.fairagro.net, project number 501899475), NFDI4BioDiversity (www.nfdi4biodiversity.org, project number 442032008) consortia of the NFDI; and KI Tierwohl (www.ki-tierwohl.de, funded by the European Regional Development Fund of the European Union as part of the ERDF programme 2021 to 2027 of the state of Mecklenburg-Vorpommern, EXF-25-1031 to EXF-25-1038).
+
+# References
