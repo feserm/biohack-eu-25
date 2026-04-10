@@ -1,6 +1,6 @@
 ---
 title: 'BioHackEU25 report: Minimal information standardization of phenomic experimental data in animals'
-title_short: 'BioHackEU25 Project 17: Minimal information standardisation'
+title_short: 'BioHackEU25 #17: Minimal information standardisation'
 tags:
   - domestic animal
   - phenotyping
@@ -48,7 +48,7 @@ affiliations:
     index: 5
 date: 7 November 2025
 cito-bibliography: paper.bib
-event: BH23EU
+event: BH25EU
 biohackathon_name: "BioHackathon Europe 2025"
 biohackathon_url:   "https://biohackathon-europe.org/"
 biohackathon_location: "Bad Saarow, Germany, 2025"
