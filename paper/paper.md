@@ -7,19 +7,46 @@ tags:
   - standardization
   - ISA
 authors:
-  - name: First Author
+  - name: Sarah Oranna Fischer-Zielke
+    orcid: 0000-0002-6218-7275
     affiliation: 1
-    role: Writing – original draft
-  - name: Last Author
-    orcid: 0000-0000-0000-0000
+    role: Investigation, Conceptualization, Writing – original draft, Writing – review & editing
+  - name: Rica Johanna Rehfeld
+    orcid: 0009-0007-3289-5872
     affiliation: 2
-    role: Conceptualization, Writing – review & editing
+    role: Investigation, Conceptualization, Writing – original draft, Writing – review & editing
+  - name: McKinley Santiago
+    orcid: 0009-0009-1160-5041
+    affiliation: 3
+    role: Investigation
+  - name: Emily Clark
+    orcid: 0000-0002-9550-7407
+    affiliation: 4
+    role: Conceptualization
+  - name: Daniel Arend
+    affiliation: 5
+    role: Writing – review & editing
+  - name: Manuel Feser
+    orcid: 0000-0001-6546-1818
+    affiliation: 5
+    role: Investigation, Conceptualization, Writing – review & editing
 affiliations:
-  - name: First Affiliation
+affiliations:
+  - name: FBN Dummerstorf
+    ror: https://ror.org/02n5r1g44
     index: 1
-  - name: ELIXIR Europe
-    ror: 044rwnt51
+  - name: IEC, University Medical Centre Rostock
+    ror: https://ror.org/04dm1cm79 
     index: 2
+  - name: Atrium Health Wake Forest Baptist
+    ror: https://ror.org/0207ad724
+    index: 3
+  - name: EMBL EBI
+    ror: https://ror.org/02catss52
+    index: 4
+  - name: IPK Gatersleben
+    ror: https://ror.org/02skbsp27
+    index: 5
 date: 7 November 2025
 cito-bibliography: paper.bib
 event: BH25EU
@@ -31,7 +58,7 @@ group: Project 17
 git_url: https://github.com/feserm/biohack-eu-25
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: First Author \emph{et al.}
+authors_short: Fischer-Zielke and Rehfeld \emph{et al.}
 ---
 
 <!-- ---
