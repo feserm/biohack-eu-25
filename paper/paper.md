@@ -31,7 +31,6 @@ authors:
     affiliation: 5
     role: Investigation, Conceptualization, Writing – review & editing
 affiliations:
-affiliations:
   - name: FBN Dummerstorf
     ror: https://ror.org/02n5r1g44
     index: 1
