@@ -31,19 +31,19 @@ authors:
     affiliation: 5
     role: Investigation, Conceptualization, Writing – review & editing
 affiliations:
-  - name: FBN Dummerstorf
+  - name: Research Institute for Farm Animal Biology (FBN), FBN Dummerstorf
     ror: 02n5r1g44
     index: 1
-  - name: IEC, University Medical Centre Rostock
+  - name: Rudolf-Zenker-Institut für Experimentelle Chirurgie (IEC), University Medical Centre Rostock
     ror: 04dm1cm79 
     index: 2
-  - name: Atrium Health Wake Forest Baptist
+  - name: Department of Pathology, Wake Forest University of Medicine
     ror: 0207ad724
     index: 3
-  - name: EMBL EBI
+  - name: European Bioinformatics Institute, European Molecular Biology Laboratory
     ror: 02catss52
     index: 4
-  - name: IPK Gatersleben
+  - name: Leibniz Insitute of Plant Genetics and Crop Plant Research Gatersleben
     ror: 02skbsp27
     index: 5
 date: 7 November 2025
@@ -63,7 +63,7 @@ authors_short: Fischer-Zielke and Rehfeld \emph{et al.}
 
 # Introduction
 
-The current landscape of animal phenomics is characterized by a substantial lack of standardization, hindering data reuse, reproducibility, and interoperability across studies, all of which are particularly important in light of the 3Rs principles for animal experiments (replace, reduce, refine) [@citesAsRelated:hubrecht_3rs_2019]. Within ELIXIR, the [Domestic Animals Genome and Phenome Focus Group](https://elixir-europe.org/focus-groups/domestic-animals-genome-phenome) (since December 2025 an ELIXIR community) emerged to establish standardized practices that enhance the quality and interoperability of animal research data. In this context, the ISA (Investigation, Study, Assay) model [@citesAsRelated:sansone_toward_2012] provides a robust, domain-agnostic framework well established in several life sciences for describing experimental metadata, such as the ELIXIR [Plant](https://elixir-europe.org/communities/plant-sciences) and [Metabolomics](https://elixir-europe.org/communities/metabolomics) Communities (MIAPPE, PhenoMeNal), which have successfully leveraged the ISA model to improve the consistency and usability of their metadata [@citesAsRelated:papoutsoglou_enabling_2020][@citesAsRelated:peters_phenomenal_2019].
+The current landscape of animal phenomics is characterized by a substantial lack of standardization, hindering data reuse, reproducibility, and interoperability across studies, all of which are particularly important in light of the 3Rs principles for animal experiments (replace, reduce, refine) [@citesAsRelated:hubrecht_3rs_2019]. Within ELIXIR, the [Domestic Animals Genome and Phenome Focus Group](https://elixir-europe.org/focus-groups/domestic-animals-genome-phenome) (since December 2025 an ELIXIR community) emerged to establish standardized practices that enhance the quality and interoperability of animal research data. In this context, the ISA (Investigation, Study, Assay) model [@citesAsRelated:sansone_toward_2012] provides a robust, domain-agnostic framework well established in several life sciences for describing experimental metadata, such as the ELIXIR [Plant](https://elixir-europe.org/communities/plant-sciences) and [Metabolomics](https://elixir-europe.org/communities/metabolomics) Communities (MIAPPE, PhenoMeNal), which have successfully leveraged the ISA model to improve the consistency and usability of their metadata [@citesAsRelated:papoutsoglou_enabling_2020; @citesAsRelated:peters_phenomenal_2019].
 
 Our project aims to develop a minimal information checklist tailored to animal phenomics, facilitate the integration of diverse datasets, including recirculation systems in agriculture, and foster collaborative research efforts. We will focus on various goals.
 
@@ -109,6 +109,6 @@ Looking ahead, the transformation of the Domestic Animals Genome and Phenome Foc
 # Acknowledgements
 
 We would like to thank the ELIXIR community and the organizers of BioHackathon Europe for the opportunity to conduct this work as part of BioHackathon Europe 2025.
-This work was funded by ELIXIR, the research infrastructure for life-science data; by the Federal Government of Germany and the county of North Rhine-Westphalia (de.NBI - the GermanNetwork for Bioinformatics Infrastructure); the DFG in frame of the FAIRagro (www.fairagro.net, project number 501899475), NFDI4BioDiversity (www.nfdi4biodiversity.org, project number 442032008) consortia of the NFDI; and KI Tierwohl (www.ki-tierwohl.de, funded by the European Regional Development Fund of the European Union as part of the ERDF programme 2021 to 2027 of the state of Mecklenburg-Vorpommern, EXF-25-1031 to EXF-25-1038).
+This work was funded by ELIXIR, the research infrastructure for life-science data; by the Federal Government of Germany and the county of North Rhine-Westphalia (de.NBI - the GermanNetwork for Bioinformatics Infrastructure); the DFG in frame of the FAIRagro ([www.fairagro.net](https://fairagro.net), project number 501899475), NFDI4BioDiversity ([www.nfdi4biodiversity.org](https://nfdi4biodiversity.org), project number 442032008) consortia of the NFDI; and KI Tierwohl ([www.ki-tierwohl.de](https://ki-tierwohl.de), funded by the European Regional Development Fund of the European Union as part of the ERDF programme 2021 to 2027 of the state of Mecklenburg-Vorpommern, EXF-25-1031 to EXF-25-1038).
 
 # References
