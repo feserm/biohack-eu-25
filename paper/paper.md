@@ -1,5 +1,41 @@
 ---
 title: 'BioHackEU25 report: Minimal information standardization of phenomic experimental data in animals'
+title_short: 'BioHackEU23 #17: Minimal information standardisation'
+tags:
+  - domestic animal
+  - phenotyping
+  - standardization
+  - ISA
+authors:
+  - name: First Author
+    affiliation: 1
+    role: Writing – original draft
+  - name: Last Author
+    orcid: 0000-0000-0000-0000
+    affiliation: 2
+    role: Conceptualization, Writing – review & editing
+affiliations:
+  - name: First Affiliation
+    index: 1
+  - name: ELIXIR Europe
+    ror: 044rwnt51
+    index: 2
+date: 7 November 2025
+cito-bibliography: paper.bib
+event: BH25EU
+biohackathon_name: "BioHackathon Europe 2025"
+biohackathon_url:   "https://biohackathon-europe.org/"
+biohackathon_location: "Bad Saarow, Germany, 2025"
+group: Project 17
+# URL to project git repo --- should contain the actual paper.md:
+git_url: https://github.com/feserm/biohack-eu-25
+# This is the short authors description that is used at the
+# bottom of the generated paper (typically the first two authors):
+authors_short: First Author \emph{et al.}
+---
+
+<!-- ---
+title: 'BioHackEU25 report: Minimal information standardization of phenomic experimental data in animals'
 title_short: 'BioHackEU25 #17: Minimal information standardisation'
 tags:
   - domestic animal
@@ -58,7 +94,7 @@ git_url: https://github.com/feserm/biohack-eu-25
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
 authors_short: Fischer and Rehfeld \emph{et al.}
----
+--- -->
 
 
 # Introduction
