@@ -7,7 +7,7 @@ tags:
   - standardization
   - ISA
 authors:
-  - name: Sarah Oranna Fischer-Zielke
+  - name: Sarah Oranna Fischer
     orcid: 0000-0002-6218-7275
     affiliation: 1
     role: Investigation, Conceptualization, Writing – original draft, Writing – review & editing
@@ -32,19 +32,19 @@ authors:
     role: Investigation, Conceptualization, Writing – review & editing
 affiliations:
   - name: FBN Dummerstorf
-    ror: https://ror.org/02n5r1g44
+    ror: 02n5r1g44
     index: 1
   - name: IEC, University Medical Centre Rostock
-    ror: https://ror.org/04dm1cm79 
+    ror: 04dm1cm79 
     index: 2
   - name: Atrium Health Wake Forest Baptist
-    ror: https://ror.org/0207ad724
+    ror: 0207ad724
     index: 3
   - name: EMBL EBI
-    ror: https://ror.org/02catss52
+    ror: 02catss52
     index: 4
   - name: IPK Gatersleben
-    ror: https://ror.org/02skbsp27
+    ror: 02skbsp27
     index: 5
 date: 7 November 2025
 cito-bibliography: paper.bib
@@ -57,7 +57,7 @@ group: Project 17
 git_url: https://github.com/feserm/biohack-eu-25
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: Fischer-Zielke and Rehfeld \emph{et al.}
+authors_short: First Author \emph{et al.}
 ---
 
 <!-- ---
