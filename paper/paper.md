@@ -1,11 +1,5 @@
 ---
 title: 'BioHackEU25 report: Minimal information standardization of phenomic experimental data in animals'
-tags: [domestic animal, phenotyping, standardization]
-
----
-
----
-title: 'BioHackEU25 report: Minimal information standardization of phenomic experimental data in animals'
 title_short: 'BioHackEU25 #17: Minimal information standardisation'
 tags:
   - domestic animal
